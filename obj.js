@@ -11,4 +11,10 @@ const projects = [
     in_tech: ["HTML", "CSS", "JS"],
     href: "https://aaa-green-todo-list.netlify.app/",
   },
+  {
+    src: "./img/Screenshot 2023-12-24 094855.png",
+    name: "Chemical Mixture Precentage",
+    in_tech: ["HTML", "CSS", "JS"],
+    href: "https://aaa-mixture-precentage.netlify.app/",
+  },
 ];
